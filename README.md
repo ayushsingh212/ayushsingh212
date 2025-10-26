@@ -1,10 +1,7 @@
 ## Hello Devlopers/Recruiters
 
-![An image of @ayushsingh212's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushsingh212)](https://holopin.io/@ayushsingh212)
+![An image of @ayushsingh212's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushsingh212)]
 # Hi, I'm Ayush 
-
- **Hacktoberfest 2025 Participant**  
-![Hacktoberfest Badge](https://raw.githubusercontent.com/ayushsingh212/ayushsingh212/main/.github/images/hacktoberfest-badge.svg)
 
 ---
 
