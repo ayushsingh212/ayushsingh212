@@ -1,4 +1,4 @@
-![An image of @ayushsingh212's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushsingh212)
+
 <!-- Header GIF -->
 <p align="center">
   <img src="GitHeade.gif" width="100%" alt="header" />
@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sanchit-044&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&title=Followers,Stars,Commit,Repositories,PullRequest,Issues" />
 </p>
-
+![An image of @ayushsingh212's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushsingh212)
 ---
 
 ## 🚀 Let's Connect & Build Together
