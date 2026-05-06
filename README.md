@@ -86,6 +86,10 @@ Currently working on:
 
 ## 🔹 TheNimantran.com
 
+
+🌐 **Live Platform:** https://thenimantran.com
+
+
 ### Co-Founder & Full Stack Engineer
 📍 Banaras, Uttar Pradesh  
 📅 Oct 2024 – Present
@@ -120,6 +124,10 @@ Production SaaS platform for invitation card customization and printing.
 # 🚀 Featured Projects
 
 ## 🔹 CodeClash
+
+
+🌐 **Live Platform:** https://codeclash.notsg.space
+
 
 ### Scalable Online Judge & Code Execution Platform
 
