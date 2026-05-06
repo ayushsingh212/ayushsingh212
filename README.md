@@ -7,11 +7,11 @@
 <!-- Animated Intro -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&duration=2500&pause=1200&color=F3B855&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayush+Singh+🚀;Full+Stack+Developer+%7C+MERN+%7C+Next.js;Building+Scalable+Web+Applications;Real-Time+Systems+%7C+System+Design;DSA+Enthusiast+%7C+Cloud+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1200&color=F3B855&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ayush+Singh+🚀;Backend+Engineer+%7C+Distributed+Systems;Building+Scalable+Production+Platforms;Real-Time+Infrastructure+%7C+Cloud+Engineering;AWS+%7C+System+Design+%7C+Microservices" />
 </h1>
 
 <p align="center">
-Full Stack Developer • MERN Stack • Next.js • Real-Time Systems • System Design
+Backend Engineer • Distributed Systems • Real-Time Infrastructure • Cloud & DevOps
 </p>
 
 <p align="center">
@@ -20,95 +20,168 @@ Full Stack Developer • MERN Stack • Next.js • Real-Time Systems • System
 
 ---
 
-# 🌟 About Me
+# 🚀 About Me
 
-I’m a **Full Stack Developer specializing in scalable web applications and backend architectures**.
+I’m a **Backend & Full Stack Engineer** focused on building scalable production-grade applications, distributed systems, and real-time infrastructures.
 
-I enjoy building **production-ready platforms, real-time systems, and full-stack products** that solve real-world problems.
+I enjoy engineering systems that handle:
+- high concurrency
+- real-time communication
+- event-driven workflows
+- cloud-native deployments
+- scalable backend architectures
 
-Currently exploring **Cloud Infrastructure, DevOps pipelines, AI-powered systems, and scalable backend architectures.**
-
-### 🔹 Core Interests
-
-• Full Stack Development (MERN + Next.js)
-• Scalable Backend Architecture
-• Real-Time Systems
-• System Design & Performance Optimization
-• Competitive Programming & DSA
-
-📫 Email: **[ayurajput249@gmail.com](mailto:ayurajput249@gmail.com)**
+Currently working on:
+- distributed backend systems
+- AWS cloud infrastructure
+- serverless architectures
+- real-time collaboration systems
+- DevOps & CI/CD pipelines
+- scalable SaaS platforms
 
 ---
 
-# 🧠 Tech Stack
+# 🧠 Engineering Focus
+
+- Distributed Systems
+- Real-Time Architectures
+- Event-Driven Systems
+- Backend Scalability
+- System Design
+- Cloud Infrastructure
+- Microservices
+- Performance Optimization
+- Production Deployments
+- DevOps Automation
+
+---
+
+# ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts,nodejs,express,mongodb,python,java,cpp,html,css,git,github,linux,docker,aws,postman,vscode,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,mongodb,postgres,redis,aws,docker,nginx,python,java,cpp,linux,git,github,postman,vscode&perline=10" />
 </p>
 
 ---
 
-# 🚀 Production Projects
+# 💼 Professional Experience
 
-## 🔹 SOCIO
+## 🔹 Software Incubator – Software Development Center
 
-Full-stack **social media application** built with **Next.js and Node.js**.
+### Backend Developer
+📍 Ghaziabad, Uttar Pradesh  
+📅 Oct 2024 – Present
 
-SOCIO allows users to create profiles, publish posts, interact with content, and communicate in real time with a scalable backend architecture.
+- Developed a real-time attendance tracking platform serving **6,000+ users** using **WebSockets** and **Socket.io**
+- Designed Redis-based caching layers across microservices, reducing average API response time from **420ms → 180ms**
+- Implemented **JWT + OAuth 2.0 RBAC** authentication architecture
+- Maintained CI/CD pipelines using **GitHub Actions**
+- Conducted production-level backend optimization and code reviews
 
-**Tech Stack**
+### Core Technologies
 
-Next.js • React • Node.js • Express • MongoDB • TailwindCSS
-
-**Key Features**
-
-• Secure authentication and user profiles
-• Post creation with media support
-• Likes, comments, and engagement system
-• Follow and social interaction features
-• Real-time updates
-• Optimized backend architecture
+`Node.js` • `Redis` • `Socket.io` • `JWT` • `OAuth 2.0` • `Microservices` • `GitHub Actions`
 
 ---
 
-## 🔹 AI CRONA
+## 🔹 TheNimantran.com
 
-**AI-powered university timetable optimization platform**
+### Co-Founder & Full Stack Engineer
+📍 Banaras, Uttar Pradesh  
+📅 Oct 2024 – Present
 
-A system designed to generate optimized timetables automatically while handling complex scheduling constraints.
+Production SaaS platform for invitation card customization and printing.
 
-**Tech Stack**
+### Key Engineering Highlights
 
-Node.js • MongoDB • React • AI Integration
+- Built Canva-like live design editor for **500+ customers**
+- Fulfilled **1200+ production orders**
+- Engineered multi-role order workflow system:
+  `CREATED → ASSIGNED → ACCEPTED → PRODUCED → DELIVERED`
+- Enabled real-time order tracking using **WebSockets + FCM**
+- Automated image-processing pipelines with:
+  - AWS Lambda
+  - Amazon SQS
+- Processed **300+ images/day**
+- Integrated Razorpay payment infrastructure with secure webhook verification
+- Managed production deployment using:
+  - AWS EC2
+  - Docker
+  - Nginx
+  - S3
+- Maintained **99.9% uptime**
 
-**Features**
+### Core Technologies
 
-• Automated timetable generation
-• AI chatbot assistant
-• Efficient data modelling
-• Secure authentication system
-• Admin control for scheduling
+`React` • `TypeScript` • `Node.js` • `MongoDB` • `AWS Lambda` • `SQS` • `Docker` • `Nginx`
 
 ---
 
-## 🔹 BLINKB
+# 🚀 Featured Projects
 
-**Real-time video communication and streaming platform**
+## 🔹 CodeClash
 
-A system designed for live communication and intelligent interaction.
+### Scalable Online Judge & Code Execution Platform
 
-**Tech Stack**
+Built a serverless competitive programming platform supporting:
+- C++
+- Java
+- Python
 
-WebRTC • Node.js • Socket.io • React
+### Features
 
-**Features**
+- AWS Lambda-based execution engine
+- Sandboxed containerized runtime
+- Automated test-case scoring
+- Sub-second result delivery
+- Auto-scaled concurrent submission handling
+- Memory & execution constraints enforcement
 
-• Video calling system
-• Real-time communication
-• AI chat assistant
-• Diet plan suggestions
-• User dashboard
-• Media streaming system
+### Scale
+
+- 200+ concurrent submissions
+- 50+ coding problem sets
+
+### Tech Stack
+
+`Node.js` • `AWS Lambda` • `Docker` • `MongoDB` • `SQS`
+
+---
+
+## 🔹 BunkBite
+
+### Real-Time Food Ordering Backend System
+
+Production backend powering a live canteen food-ordering application.
+
+### Features
+
+- Real-time order processing
+- Razorpay payment verification
+- Firebase push notifications
+- Inventory locking system
+- MongoDB atomic transactions
+- Role-based access control
+- RESTful APIs for complete order lifecycle
+
+### Scale
+
+- 100+ active users
+- 500+ concurrent order requests
+
+### Tech Stack
+
+`Node.js` • `Express.js` • `MongoDB` • `Socket.io` • `Firebase` • `Razorpay`
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Finalist – Smart India Hackathon 2025 (IIT Dhanbad)
+- 🥇 1st Place – Render 3.0 Web Development Competition
+- 🥇 1st Place – Commit 2.0 Web Development Competition
+- 🌟 Super Contributor – Hacktoberfest 2025
+- 💻 Solved 100+ LeetCode Problems
 
 ---
 
@@ -132,18 +205,10 @@ WebRTC • Node.js • Socket.io • React
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh212&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Developer Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsingh212&theme=tokyonight&no-frame=true&margin-w=10&title=Commit,Repositories,PullRequest,Stars,Followers"/>
 </p>
 
 ---
@@ -159,6 +224,7 @@ WebRTC • Node.js • Socket.io • React
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushsingh212&theme=tokyonight"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsingh212&theme=tokyonight"/>
 
 </p>
@@ -166,6 +232,7 @@ WebRTC • Node.js • Socket.io • React
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushsingh212&theme=tokyonight"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsingh212&theme=tokyonight&utcOffset=5"/>
 
 </p>
@@ -184,12 +251,14 @@ WebRTC • Node.js • Socket.io • React
 
 # 🎯 Currently Learning
 
-• Advanced **System Design**
-• **Real-time collaboration systems** (WebRTC + Socket.io)
-• **Cloud Infrastructure (AWS)**
-• **DevOps pipelines & containerization**
-• **Python for AI/ML systems**
-• **Microservices architecture**
+- Advanced Distributed Systems
+- High-Scale System Design
+- Kubernetes & Container Orchestration
+- AWS Cloud Architecture
+- Event-Driven Architectures
+- Real-Time Collaboration Systems
+- DevOps & Infrastructure Automation
+- Backend Performance Engineering
 
 ---
 
@@ -205,7 +274,7 @@ WebRTC • Node.js • Socket.io • React
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:ayurajput249@gmail.com">
+<a href="mailto:ayushsingh212109@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -220,5 +289,5 @@ WebRTC • Node.js • Socket.io • React
 </p>
 
 <p align="center">
-✨ “First, solve the problem. Then, write the code.” – Niklaus Wirth ✨
+⚡ Engineering scalable systems, one deployment at a time.
 </p>
