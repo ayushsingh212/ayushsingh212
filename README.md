@@ -7,11 +7,11 @@
 <!-- Animated Intro -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1200&color=F3B855&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ayush+Singh+🚀;Backend+Engineer+%7C+Distributed+Systems;Building+Scalable+Production+Platforms;Real-Time+Infrastructure+%7C+Cloud+Engineering;AWS+%7C+System+Design+%7C+Microservices" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=1200&color=F3B855&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Ayush+Singh+%F0%9F%9A%80;Founder+%40+Autoscio;AI+%2F+Agentic+Systems+Engineer;LLMs+%7C+RAG+%7C+Multi-Agent+Pipelines;Building+ComfoBuddy+%E2%80%94+Rental+%26+Property+OS" />
 </h1>
 
 <p align="center">
-Backend Engineer • Distributed Systems • Real-Time Infrastructure • Cloud & DevOps
+Founder @ Autoscio • AI &amp; Agentic Systems • LLMs · RAG · Multi-Agent Orchestration • Production Backend at Scale
 </p>
 
 <p align="center">
@@ -22,164 +22,142 @@ Backend Engineer • Distributed Systems • Real-Time Infrastructure • Cloud 
 
 # 🚀 About Me
 
-I’m a **Backend & Full Stack Engineer** focused on building scalable production-grade applications, distributed systems, and real-time infrastructures.
+I build **AI systems that actually run in production** — agentic pipelines, retrieval-augmented generation, and generative media — on top of the distributed backend engineering I came from.
 
-I enjoy engineering systems that handle:
-- high concurrency
-- real-time communication
-- event-driven workflows
-- cloud-native deployments
-- scalable backend architectures
+Today I'm:
 
-Currently working on:
-- distributed backend systems
-- AWS cloud infrastructure
-- serverless architectures
-- real-time collaboration systems
-- DevOps & CI/CD pipelines
-- scalable SaaS platforms
+- 🧠 **Founder of Autoscio** — an omnichannel AI automation platform. **4+ company clients · 10,000+ users.**
+- 🏠 **Building ComfoBuddy** — aiming to be India's best rental & property management software.
+- 🤖 Working daily with **LLMs, agentic AI, LangChain, LlamaIndex, RAG, vector search, and CNNs / deep learning.**
+
+My focus has shifted from *"make the backend fast"* to **"make the system think"** — while keeping the reliability, observability and scale discipline of production engineering.
 
 ---
 
-# 🧠 Engineering Focus
+# 🧠 What I Work On
 
-- Distributed Systems
-- Real-Time Architectures
-- Event-Driven Systems
-- Backend Scalability
-- System Design
-- Cloud Infrastructure
-- Microservices
-- Performance Optimization
-- Production Deployments
-- DevOps Automation
+### AI & Agentic Engineering
+- Multi-agent orchestration & tool-calling agents
+- RAG pipelines: chunking, embeddings, hybrid retrieval, re-ranking, evals
+- LLM app architecture: prompt/context engineering, guardrails, cost & latency control
+- Generative media: AI video generation, voice synthesis, automated content pipelines
+- Deep learning: CNNs, computer vision, model fine-tuning
+
+### Systems Engineering
+- Event-driven & queue-backed architectures
+- Real-time infrastructure (WebSockets, push, live sessions)
+- Multi-tenant SaaS platforms with RBAC
+- Cloud infrastructure, CI/CD and production deployments
 
 ---
 
 # ⚙️ Tech Stack
 
+### AI / ML
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,mongodb,postgres,redis,aws,docker,nginx,python,java,cpp,linux,git,github,postman,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi&perline=10" />
+</p>
+
+`LLM APIs (Claude · GPT)` • `LangChain` • `LlamaIndex` • `RAG` • `Agentic AI / Tool Calling` • `Vector DBs (pgvector · Pinecone · Qdrant)` • `Embeddings & Re-ranking` • `CNN / Deep Learning` • `OpenCV` • `Whisper / TTS` • `Prompt & Context Engineering`
+
+### Engineering
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,react,nextjs,postgres,mongodb,redis,prisma,aws,docker,nginx,linux,git,github,postman&perline=9" />
 </p>
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
-## 🔹 Software Incubator – Software Development Center
+## 🔹 Autoscio — **Founder**
 
-### Backend Developer
-📍 Ghaziabad, Uttar Pradesh  
-📅 Oct 2024 – Present
+### Omnichannel AI Automation Platform
 
-- Developed a real-time attendance tracking platform serving **6,000+ users** using **WebSockets** and **Socket.io**
-- Designed Redis-based caching layers across microservices, reducing average API response time from **420ms → 180ms**
-- Implemented **JWT + OAuth 2.0 RBAC** authentication architecture
-- Maintained CI/CD pipelines using **GitHub Actions**
-- Conducted production-level backend optimization and code reviews
+Autoscio automates a business's entire digital presence from one place — not just WhatsApp, but **Instagram, LinkedIn, YouTube, email and more.**
 
-### Core Technologies
+**What it does**
 
-`Node.js` • `Redis` • `Socket.io` • `JWT` • `OAuth 2.0` • `Microservices` • `GitHub Actions`
+- 🌐 **Omnichannel automation** — WhatsApp, Instagram, LinkedIn, YouTube, email and other channels from a single control plane
+- 🤖 **Advanced agentic AI** — autonomous agents that reply, qualify, follow up and act with tool access
+- 📚 **RAG-grounded answers** — agents answer from your own documents and product knowledge, not hallucinations
+- 🎬 **Generative media** — AI **video generation** and **voice generation** for content at scale
+- 📤 **Publish anywhere** — connect and auto-post to YouTube and other platforms
+- 👤 **For individuals too** — connect your mail, automate outreach, and even **auto-apply for jobs**
+
+**Scale:** `4+ company clients` · `10,000+ users`
+
+**Core Technologies**
+
+`NestJS` • `TypeScript` • `Prisma` • `PostgreSQL` • `Redis / BullMQ` • `LLM Agents` • `RAG` • `Vector Search` • `Meta & Google APIs` • `Docker`
 
 ---
 
-## 🔹 TheNimantran.com
+## 🔹 ComfoBuddy — **Founder / Engineering**
 
+### Rental & Property Management Platform (India)
 
-🌐 **Live Platform:** https://thenimantran.com
+Building an end-to-end rental operating system for tenants, owners, field agents and admins.
 
+**Highlights**
 
-### Co-Founder & Full Stack Engineer
-📍 Banaras, Uttar Pradesh  
-📅 Oct 2024 – Present
+- 🔍 **AI auto-hunting** — hybrid rules + LLM engine that matches tenants to properties automatically
+- 📝 **AI inspection reports** — field-verified property inspections turned into audience-aware narratives
+- 🏢 **Full tenancy operations** — bookings, rent ledgers, deposits with settlement, complaints, KYC
+- 🧭 **Trust scores** — tenant, owner, property and area scoring from real operational signals
+- 📊 **Geographic analytics** — onboarding & tenant-origin heat maps
+- 🔐 **Multi-role RBAC** — Tenant · Owner · Manager · Buddy · Admin portals
+- 💬 **Real-time layer** — video inspections, push notifications, live visit tracking
 
-Production SaaS platform for invitation card customization and printing.
+**Core Technologies**
 
-### Key Engineering Highlights
+`Next.js` • `React` • `Express` • `TypeScript` • `Prisma` • `PostgreSQL` • `Redis` • `BullMQ` • `LLM APIs` • `AWS S3` • `Razorpay` • `FCM`
 
-- Built Canva-like live design editor for **500+ customers**
-- Fulfilled **1200+ production orders**
-- Engineered multi-role order workflow system:
-  `CREATED → ASSIGNED → ACCEPTED → PRODUCED → DELIVERED`
-- Enabled real-time order tracking using **WebSockets + FCM**
-- Automated image-processing pipelines with:
-  - AWS Lambda
-  - Amazon SQS
-- Processed **300+ images/day**
-- Integrated Razorpay payment infrastructure with secure webhook verification
-- Managed production deployment using:
-  - AWS EC2
-  - Docker
-  - Nginx
-  - S3
-- Maintained **99.9% uptime**
+---
 
-### Core Technologies
+## 🔹 TheNimantran.com — **Co-Founder (past)**
 
-`React` • `TypeScript` • `Node.js` • `MongoDB` • `AWS Lambda` • `SQS` • `Docker` • `Nginx`
+📅 2024 – 2025 · **handed over — no longer involved**
+
+Production SaaS for invitation card customization and printing.
+
+- Built a Canva-like live design editor used by **500+ customers**
+- Fulfilled **1,200+ production orders** through a multi-role workflow
+  (`CREATED → ASSIGNED → ACCEPTED → PRODUCED → DELIVERED`)
+- Automated image processing with **AWS Lambda + SQS** (300+ images/day)
+- Real-time order tracking, Razorpay payments with webhook verification
+- Maintained **99.9% uptime** on EC2 · Docker · Nginx · S3
+
+`React` • `TypeScript` • `Node.js` • `MongoDB` • `AWS Lambda` • `SQS` • `Docker`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 CodeClash
+## 🔹 CodeClash — Serverless Online Judge
 
+🌐 **Live:** https://codeclash.notsg.space
 
-🌐 **Live Platform:** https://codeclash.notsg.space
+Competitive programming platform with a sandboxed, auto-scaling execution engine for **C++, Java and Python**.
 
-
-### Scalable Online Judge & Code Execution Platform
-
-Built a serverless competitive programming platform supporting:
-- C++
-- Java
-- Python
-
-### Features
-
-- AWS Lambda-based execution engine
-- Sandboxed containerized runtime
-- Automated test-case scoring
-- Sub-second result delivery
-- Auto-scaled concurrent submission handling
-- Memory & execution constraints enforcement
-
-### Scale
-
-- 200+ concurrent submissions
-- 50+ coding problem sets
-
-### Tech Stack
+- AWS Lambda execution engine with containerized sandboxes
+- Automated test-case scoring, memory & time limits
+- **200+ concurrent submissions**, 50+ problem sets, sub-second results
 
 `Node.js` • `AWS Lambda` • `Docker` • `MongoDB` • `SQS`
 
 ---
 
-## 🔹 BunkBite
+## 🔹 BunkBite — Real-Time Ordering Backend
 
-### Real-Time Food Ordering Backend System
+Production backend for a live canteen ordering app.
 
-Production backend powering a live canteen food-ordering application.
+- Real-time order lifecycle, inventory locking, atomic MongoDB transactions
+- Razorpay verification + Firebase push
+- **100+ active users**, 500+ concurrent order requests
 
-### Features
-
-- Real-time order processing
-- Razorpay payment verification
-- Firebase push notifications
-- Inventory locking system
-- MongoDB atomic transactions
-- Role-based access control
-- RESTful APIs for complete order lifecycle
-
-### Scale
-
-- 100+ active users
-- 500+ concurrent order requests
-
-### Tech Stack
-
-`Node.js` • `Express.js` • `MongoDB` • `Socket.io` • `Firebase` • `Razorpay`
+`Node.js` • `Express` • `MongoDB` • `Socket.io` • `Firebase` • `Razorpay`
 
 ---
 
@@ -203,70 +181,33 @@ Production backend powering a live canteen food-ordering application.
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ayushsingh212&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh212&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-# 📊 Detailed GitHub Metrics
-
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsingh212&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushsingh212&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsingh212&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushsingh212&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushsingh212&theme=tokyonight&utcOffset=5"/>
-
 </p>
 
 ---
 
-# 🪪 Holopin Badges
+# 🎯 Currently Going Deeper On
 
-<p align="center">
-<a href="https://holopin.io/@ayushsingh212">
-<img src="https://holopin.me/ayushsingh212"/>
-</a>
-</p>
-
----
-
-# 🎯 Currently Learning
-
-- Advanced Distributed Systems
-- High-Scale System Design
-- Kubernetes & Container Orchestration
-- AWS Cloud Architecture
-- Event-Driven Architectures
-- Real-Time Collaboration Systems
-- DevOps & Infrastructure Automation
-- Backend Performance Engineering
+- Agent evaluation & reliability (traces, evals, guardrails)
+- Advanced RAG (graph retrieval, hybrid search, long-context strategies)
+- Fine-tuning & distillation for cost-efficient inference
+- Computer vision with CNNs / vision transformers
+- Generative video & voice pipelines
+- Multi-tenant AI infrastructure at scale
 
 ---
 
@@ -291,11 +232,9 @@ Production backend powering a live canteen food-ordering application.
 ---
 
 <p align="center">
-
 ⭐ If you like my work, consider starring my repositories.
-
 </p>
 
 <p align="center">
-⚡ Engineering scalable systems, one deployment at a time.
+⚡ Building AI systems that ship — one agent at a time.
 </p>
