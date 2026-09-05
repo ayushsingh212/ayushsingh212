@@ -94,7 +94,7 @@ Autoscio automates a business's entire digital presence from one place — not j
 
 ---
 
-## 🔹 ComfoBuddy — **Founder / Engineering**
+## 🔹 ComfoBuddy — **Lead Engineer**
 
 ### Rental & Property Management Platform (India)
 
